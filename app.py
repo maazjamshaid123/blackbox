@@ -8,7 +8,7 @@ st.set_page_config(page_title = 'Black Box | AstroAlgo',page_icon="page_icon.png
         'About': '''$Odyssey$ by [AstroAlgo](https://www.linkedin.com/company/astroalgo): Data-Driven Insights Into The Cosmos'''
     })
 
-st.sidebar.image("astroalgo.png", use_column_width=True)
+st.sidebar.image("1.png", use_column_width=True)
 
 st.sidebar.markdown("---")
 
