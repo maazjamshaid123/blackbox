@@ -29,6 +29,7 @@ def detect_hole():
 
 
     st.title('Black Holes in Globular Clusters')
+    st.write('Enter the following properties of the Globular Clusters')
 
     st.markdown("---")
     
