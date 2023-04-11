@@ -3,12 +3,12 @@ from blackhole import detect_hole
 from intro import show_intro
 
 st.set_page_config(page_title = 'Black Box | AstroAlgo',page_icon="page_icon.jpeg", layout="wide", menu_items={
-        'Get Help': 'https://www.linkedin.com/company/astroalgo',
-        'Report a bug': "https://forms.gle/5hKrGPJGqs2aeHUC8",
-        'About': '''$Odyssey$ by [AstroAlgo](https://www.linkedin.com/company/astroalgo): Data-Driven Insights Into The Cosmos'''
+        'Get Help': 'https://www.linkedin.com/in/maazjamshaid/',
+        'Report a bug': "https://www.linkedin.com/in/maazjamshaid/",
+        'About': '''$BlackBox$'''
     })
 
-st.sidebar.image("1.png", use_column_width=True)
+# st.sidebar.image("1.png", use_column_width=True)
 
 st.sidebar.markdown("---")
 
