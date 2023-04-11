@@ -13,12 +13,11 @@ def show_intro():
 
     st.markdown('----')
 
-    st.write('Provide feedback [here](https://forms.gle/5hKrGPJGqs2aeHUC8)')
-    st.write('[Linkedin](https://www.linkedin.com/company/astroalgo)')
+    st.write('[Linkedin](https://www.linkedin.com/in/maazjamshaid/)')
 
     st.markdown("---")
 
-    st.info('''$Black$ $Box$ is an innovative product developed by AstroAlgo, designed to predict 
+    st.info('''$Black$ $Box$ is an innovative product developed to predict 
     black hole subsystems in globular clusters using advanced algorithms and machine learning 
     techniques. Black Box has the capability to revolutionize the field of astrophysics by 
     providing accurate predictions and insights into the existence of black holes in the 
